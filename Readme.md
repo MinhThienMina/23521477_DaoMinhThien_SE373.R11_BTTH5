@@ -291,7 +291,7 @@ _Hình 6. Nhật ký chạy agent Bài 2 – xử lý khi thiếu ngưỡng và 
 | `stage-01-files`        |    36 / 36    |   PASSED   |   15,80 s    | Sandbox thao tác tệp, tích hợp `list_files`         |
 | `stage-02-skills`       |    43 / 43    |   PASSED   |   19,32 s    | Nạp skill động, tra cứu `refund-policy`             |
 | `stage-03-bash`         |    48 / 48    |   PASSED   |   19,95 s    | Môi trường bash an toàn, xử lý workload bằng script |
-| `stage-04-script-skill` |    64 / 64    |   PASSED   |   32,13 s    | Cờ `--max-hours`, trường hợp biên, khử trùng ID     |
+| `stage-04-script-skill` |    64 / 64    |   PASSED   |   32,13 s    | `--max-hours`, trường hợp biên, khử trùng ID     |
 | **Tổng cộng**           | **208 / 208** | **PASSED** | **104,32 s** | Toàn bộ 5 stage đều đạt                             |
 
 ### 3.2. Ma trận đối chiếu kịch bản và trace
